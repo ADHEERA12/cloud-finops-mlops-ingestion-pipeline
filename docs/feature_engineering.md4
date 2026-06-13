@@ -1,0 +1,19 @@
+# Feature Engineering
+
+## cpu_per_pod
+CPU load per Kubernetes pod.
+
+## memory_per_request
+Memory consumption per request.
+
+## traffic_per_pod
+Traffic handled by each pod.
+
+## network_per_request
+Network usage per request.
+
+## resource_intensity
+Combined infrastructure load metric.
+
+## cost_efficiency
+Traffic served per CPU unit.
